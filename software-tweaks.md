@@ -8,3 +8,5 @@
     * Our goal is to allow classes to be easily extended to incorporate new behaviour without modifying the existing code
     * We need designs that are resilient to change and flexible enough to take on new functionality to meet changing requirements
     * Applying OPEN-CLOSED principle **everywhere** is wasteful,unnecessary,and can lead to complex,hard to understand code. 
+
+* High level components should not depend on low level components rather both should depend on abstraction
